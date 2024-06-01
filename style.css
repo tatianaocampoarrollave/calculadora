@@ -11,7 +11,8 @@
 
 
 
-@media  scream and (min-width: 570px) {body {
+@media  scream and (min-width: 570px) 
+{body {
   background-color: #13171F;
   font-size: 15px;
   font-family: 'Poppins';
