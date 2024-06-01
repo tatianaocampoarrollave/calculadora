@@ -1,18 +1,25 @@
-@media scream and (max-width:569px) {
+
   body {
     background: #FF0099;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #493240, #FF0099);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #493240, #FF0099); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     
   }
-}
 
 
 
 
 
-@media  scream and (min-width: 570px) 
+
+@media (max-width:570px) 
 {body {
+  background: #a8ff78;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #78ffd6, #a8ff78);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #78ffd6, #a8ff78); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+
   background-color: #13171F;
   font-size: 15px;
   font-family: 'Poppins';
